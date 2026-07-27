@@ -1,9 +1,3 @@
-# 🛒 NexusMart – Enterprise E-Commerce Platform
-
-A modern, full-stack enterprise e-commerce platform built with **React**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**. NexusMart delivers a premium online shopping experience with secure authentication, product management, shopping cart, checkout, order tracking, and an admin dashboard.
-
----
-
 ## 🚀 Project Overview
 
 NexusMart is a scalable full-stack e-commerce application designed to simulate a real-world online shopping platform. It provides customers with a seamless shopping experience while offering administrators powerful tools to manage products, orders, and users.
@@ -161,18 +155,6 @@ npm run dev
 - Scalable codebase
 - TypeScript support
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of:
-- Homepage
-- Product Catalog
-- Product Details
-- Shopping Cart
-- Checkout
-- Order Success
-- Admin Dashboard
 
 ---
 
@@ -187,20 +169,3 @@ npm run dev
 - PWA Support
 - Internationalization (i18n)
 
----
-
-## 👨‍💻 Author
-
-**Shamith R**
-
-Artificial Intelligence & Machine Learning Engineering Student
-
-GitHub: https://github.com/saideeksha19
-
-LinkedIn: https://www.linkedin.com/in/shamith-r-b8b7593b0/
-
----
-
-## 📄 License
-
-This project is developed for educational, internship, and portfolio purposes.
