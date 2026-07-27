@@ -1,0 +1,6 @@
+{
+  "name": "NexusMart Enterprise E-Commerce",
+  "description": "An enterprise-grade, full-stack E-Commerce platform with role-based authentication, product catalog, cart, checkout, order timeline tracking, user profile, and admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

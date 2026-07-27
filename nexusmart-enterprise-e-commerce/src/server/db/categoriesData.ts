@@ -1,0 +1,76 @@
+import { Category } from '../../types';
+
+export const initialCategories: Category[] = [
+  {
+    id: 'cat-electronics',
+    name: 'Electronics & Audio',
+    slug: 'electronics',
+    icon: 'Headphones',
+    description: 'High-fidelity audio, laptops, smart tech, gaming gear & display monitors.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-fashion',
+    name: 'Fashion & Apparel',
+    slug: 'fashion',
+    icon: 'Shirt',
+    description: 'Designer apparel, dresses, activewear, watches & modern style essentials.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-beauty',
+    name: 'Beauty & Skincare',
+    slug: 'beauty-skincare',
+    icon: 'Sparkles',
+    description: 'Organic serums, moisturizers, perfumes, makeup & luxury grooming essentials.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-home',
+    name: 'Home & Living',
+    slug: 'home-living',
+    icon: 'Home',
+    description: 'Smart espresso machines, cookware, ergonomic furniture & minimal home decor.',
+    productCount: 15,
+  },
+  {
+    id: 'cat-fitness',
+    name: 'Sports & Fitness',
+    slug: 'fitness-outdoors',
+    icon: 'Dumbbell',
+    description: 'Nike & Adidas performance gear, running shoes, smart trackers & camping tools.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-books',
+    name: 'Books & Literature',
+    slug: 'books',
+    icon: 'BookOpen',
+    description: 'Bestselling fiction, non-fiction, tech guides & self-improvement books.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-toys',
+    name: 'Toys & Gaming',
+    slug: 'toys',
+    icon: 'Gamepad2',
+    description: 'Gaming consoles, controllers, board games, STEM building sets & collectibles.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-grocery',
+    name: 'Grocery & Gourmet',
+    slug: 'grocery',
+    icon: 'ShoppingBag',
+    description: 'Organic snacks, artisan dark chocolate, specialty coffee beans & pantry staples.',
+    productCount: 14,
+  },
+  {
+    id: 'cat-accessories',
+    name: 'Jewelry & Accessories',
+    slug: 'accessories',
+    icon: 'Watch',
+    description: 'Polarized sunglasses, luxury leather wallets, smartwatches & travel bags.',
+    productCount: 14,
+  }
+];
